@@ -1,5 +1,15 @@
 # Changelog
 
+## 10.0.0 - 16.04.2023
+
+- [[#915](https://github.com/VadimDez/ng2-pdf-viewer/pull/915)] - Update to Angular 16
+- in [[#915](https://github.com/VadimDez/ng2-pdf-viewer/pull/915)] also updated pdfjs-dist version to 2.16.105
+
+## 9.1.5 - 16.04.2023
+
+- [[#992](https://github.com/VadimDez/ng2-pdf-viewer/issues/992)] - scale not correctly updated on pdf-viewer rotation for pdf page with 90° rotation
+- [[#993](https://github.com/VadimDez/ng2-pdf-viewer/pull/993)] - fix #992 : fix rotation on pdf with included rotation
+
 ## 9.1.4 - 22.02.2023
 
 - [[#943](https://github.com/VadimDez/ng2-pdf-viewer/pull/943)] - chore(deps): bump ejs and webpack-bundle-analyzer
